@@ -1,0 +1,25 @@
+                             Operatii cu matrici 2
+Cerinta: 
+
+Sa se realizeze functii pentru operatii cu matrici patratice (de dimensiune maxima 10x10). Operatiile
+cerute sunt: A+B (adunare), AB (inmultire), aA (inmultire cu scalar), A-B (scadere). Sa se realizeze un
+program demonstrativ pentru operatii cu matrici, utilizand aceste functii. Utilizatorului i se va cere sa
+furnizeze de la tastatura o expresie cu matrici asemanatoare cu expresiile de mai sus. Programul va
+interpreta expresia si va cere calea inspre fisierul sau fisierele in care se gasesc matricile. Se va calcula
+rezultatul, care va fi scris intr-un fisier cu denumirea rezultat.txt.
+Exemplul 1:
+> Introduceti o operatie cu matrici:
+> A+B
+> A=
+> a.txt
+> B=
+> b.txt
+> Rezultat: rezultat.txt
+
+
+Pentru nota 5: Citirea operatiei de la tastatura si transmisia catre fisierele in care se afla matricile. 
+Pentru nota 6: Calcularea adunarii matricelor.
+Pentru nota 7: Calcularea scaderii.
+Pentru nota 8: Calcularea inmultirii cu scalar.
+Pentru nota 9: Determinarea inmultirii matricelor si punerea in rezultat.txt.
+Pentru nota 10: Realizarea tuturor operatiilor, punerea rezultatului in fisierul respectiv, respectarea intregii cerinte. 

@@ -1,0 +1,5 @@
+Rezultatul scaderii matricelor: 
+
+-1 1 1
+1 1 1
+1 1 1
